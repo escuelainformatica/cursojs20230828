@@ -10,6 +10,10 @@ const pinia = useCounterStore();
       <nav>
         <RouterLink to="/">Home</RouterLink>
         <RouterLink to="/about">About</RouterLink>
+        
+        <RouterLink to="/homeoption">homeoption</RouterLink>
+        <RouterLink to="/todos">todos</RouterLink>
+        <RouterLink to="/todosinsertar">todosinsertar</RouterLink>
       </nav>
 
 
